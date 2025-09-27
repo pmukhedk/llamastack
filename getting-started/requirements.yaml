@@ -1,0 +1,10 @@
+llama-stack
+opentelemetry-api
+opentelemetry-exporter-otlp
+aiosqlite
+vllm
+SQLAlchemy
+faiss-cpu
+mcp
+torchtune
+torchao
